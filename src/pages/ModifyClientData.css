@@ -1,0 +1,9 @@
+
+.item-transparent-bg-color{
+  --ion-item-background: rgba(0, 0, 0, 0);
+}
+
+.Ion__Text__Modify{
+  color: white;
+  font-weight: bold;
+}

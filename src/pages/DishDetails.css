@@ -1,0 +1,16 @@
+.Ion__Img{
+    align-items: center;
+    max-width: max-content;
+}
+
+.Ion__Row{
+    justify-content: center;
+}
+
+.Ion__Card__Details{
+    background-color: white;
+}
+
+.Ion__Text__Details{
+    color: #00684e;
+}

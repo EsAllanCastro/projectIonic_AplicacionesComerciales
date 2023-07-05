@@ -2,11 +2,9 @@ import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
   appId: 'io.ionic.starter',
-  appName: 'Molcajete Mexican Food',
-  webDir: 'dist',
-  server: {
-    androidScheme: 'https'
-  }
+  appName: 'clienttemplate',
+  webDir: 'build',
+  bundledWebRuntime: false,
 };
 
 export default config;

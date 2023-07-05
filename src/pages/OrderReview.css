@@ -1,0 +1,20 @@
+.Ion__Card{
+    background-color: white;
+}
+
+.Ion__Card__Title {
+    color: #e25819;
+    text-align: center;
+    font-weight: bolder;
+    font-size:xx-large;
+}
+
+.Ion__Title{
+    color: white;
+    font-weight: bold;
+}
+
+.Ion__Subtitle {
+    color: #00684e;
+    font-size: larger;
+}

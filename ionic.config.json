@@ -1,7 +1,7 @@
 {
-  "name": "Molcajete Mexican Food",
+  "name": "clienttemplate",
   "integrations": {
     "capacitor": {}
   },
-  "type": "react-vite"
+  "type": "react"
 }

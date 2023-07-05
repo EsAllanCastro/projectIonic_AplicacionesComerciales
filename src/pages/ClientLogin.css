@@ -1,0 +1,12 @@
+.item-transparent-bg-color{
+  --ion-item-background: rgba(0, 0, 0, 0);
+}
+
+.Ion__Router__Login{
+  color: rgb(84, 211, 94);
+}
+
+.Ion__Text__Login{
+  font-size: medium;
+  color: rgb(255, 255, 255);
+}

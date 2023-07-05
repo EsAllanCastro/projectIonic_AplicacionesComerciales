@@ -1,0 +1,8 @@
+.Ion__Searchbar{
+    --background: #00684e;
+    --color: #e25819;
+    --placeholder-color: #95b3ab;
+    --icon-color: #ffc880;
+    --clear-button-color: #ffc880;
+    --border-radius: 6px;
+  }
